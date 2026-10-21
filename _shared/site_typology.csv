@@ -1,0 +1,14 @@
+site_code,site_label,space_type,space_class,classification_basis,review_flag
+1,中山公园,green,park,Named urban park (公园); vegetated recreational space (P14 typology),no
+2,奥林匹克公园,built,civic_square,Olympic sports-centre open plaza; predominantly hard-surfaced (P14 typology),verify
+3,中山广场,built,civic_square,Named civic square (广场); hard-surfaced open plaza (P14 typology),no
+4,大东广场,built,civic_square,Named civic square (广场); hard-surfaced open plaza (P14 typology),no
+5,劝工园,green,park,Named garden (园); vegetated recreational space (P14 typology),no
+6,邻里公园,green,park,Named neighbourhood park (公园) (P14 typology),no
+7,长白岛森林公园,green,park,Named forest park (森林公园); strongly vegetated (P14 typology),no
+8,工人新村,built,residential,Historic workers'-village residential neighbourhood; new site in the 0708 workbook (not in the legacy 12),verify
+9,劳模园,green,park,Named urban park; the 0708 label for the site called 劳动公园 in the 0519 table (P14 typology),no
+10,罗氏圈生态公园,green,park,Named ecological park (生态公园); 0708 spelling 罗氏圈 = 0519 罗士圈 (P14 typology),no
+11,方塔园,green,park,Named garden (园) with pagoda; functions as a vegetated garden (P14 typology; Changshu),no
+12,南湖公园,green,park,Named lakeside park (公园) (P14 typology),no
+13,北陵公园,green,park,Large heritage tomb park (公园); functions as major urban green space (P14 typology),no
